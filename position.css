@@ -7,7 +7,7 @@ body
   margin: 0;
   height: 100%;
   overflow:hidden;
-  background-image: url(../books.jpg);
+  background-image: url(books.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
