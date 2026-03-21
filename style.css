@@ -241,43 +241,9 @@ display:block;
     width:100%;
     padding:10px;
   }
-      
-.hero {
-  display: flex;
-  flex-direction: column; /* stack items */
-  align-items: center;
-  text-align: center;
-}
+     
 
-.hero img {
-  width: 200px;   /* smaller image */
-  height: auto;
-  margin-bottom: 20px;
-}
 
-.hero-text {
-  width: 100%;
-  padding: 10px;
-}
-
-.hero h1 {
-  font-size: 28px; /* reduce big text */
-}
-
-.hero p {
-  font-size: 16px;
-}
-
-  .experience {
-    grid-template-columns: 1fr;
-  }
-
-  .contact {
-    flex-direction: column;
-    align-items: center;
-  }
-
-}
   .menu-toggle {
         display: block;
         text-align: right;
